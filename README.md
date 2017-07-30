@@ -1,9 +1,9 @@
 This is a sandbox repo for some fiddling with tensorflow
 
-run docker image
+run docker image  
 `docker run -it -p 8888:8888 rutgerhofste/sandbox:latest bash`  
 
-Clone repo to root (for now)
+Clone repo to root (for now)  
 `git clone https://github.com/rutgerhofste/sandbox.git`  
 
 Create keys  
